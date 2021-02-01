@@ -1,6 +1,6 @@
-Source http://www.vanneman.umd.edu/districts/index.html
+Current Address: http://www.vanneman.umd.edu/districts/index.html (last time I
+accessed this URL, sas files were missing). I downloaded them from the
+following snapshot https://web.archive.org/web/20130314062432/http://www.bsos.umd.edu/socy/vanneman/districts/files/index.html
 
-The datafile seems to be corrupt. Multiple entries have one column entries and
-stray characters. This is an exercise in data cleanup.
+Note that csv files (extracted data files) looks corrupt/unreadable.
 
-DO NOT USE THESE FILES.
